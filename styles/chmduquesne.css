@@ -20,7 +20,7 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: #047495;
     text-align:center;
     margin-bottom:15px;
 }
@@ -33,7 +33,7 @@ h1 {
 /* Titles of categories */
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+    color: #047495; /* sea blue */
 }
 /* There is a bar just before each category */
 h2:before {
@@ -43,7 +43,7 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    background-color: #01386a; /* marine blue */
 }
 /* h2:hover { */
 /*     background-color: #397249; */
@@ -75,10 +75,10 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #0504aa; /* royal blue */
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #0504aa; /* royal blue */
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;

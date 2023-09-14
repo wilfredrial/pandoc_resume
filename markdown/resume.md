@@ -1,100 +1,73 @@
-Johnny Coder
+William Rial
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Lifelong learner passionate about discovering insights from data 
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2012-2016 
+:   **BA, Computer Science**; College of Wooster, Wooster OH
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Feb 2020 - Mar 2023, 
+: Data Coordinator, University of Pittsburgh
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
+    - Collaborated with the Systems Analyst to ensure accurate maintenance of student records in the Oracle Relational Database.
+    - Executed ad-hoc queries for deans, professors, and administrators, providing valuable insights.
+- Created and optimized Qualtrics surveys for students, facilitating improved data collection and analysis.
+- Gathered and organized data for national surveys.
+- Solved myriad problems for the department via Python. 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Feb 2019 - Jan 2020 
+: Technology Implementation Specialist, University of Pittsburgh
 
-**That Other Job You Had**
 
-Also with a short description.
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python** has been my weapon of choice for solving everyday challenges. I like to think if it can't be solved with Python, then it isn't worth solving! During my time as a Data Coordinator, I used a Python library to connect to the organization's Oracle database and ran saved read queries to quickly gather data. The **Pandas** library helped me rapidly respond to ad hoc requests. 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    **Postgre SQL:** I read a book on PostgreSQL to broaden my knowledge on the subject. Among the topics covered were: database organization, development, maintenance, indexing, CTEs, and much more. I completed a [project](https://github.com/wilfredrial/portfolio_projects/blob/main/sql_census_2020-2022/us_counties.sql) with Postgre exploring Census population changes between 2020 and 2022.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Basic knowledge of **C**, **C++**, **Java**, **Linux**, **HTML**, **PHP**, **REST API**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Software
+:   MS Excel, MS Access, Cognos, Qualtrics, PeopleSoft
+ 
+Professional Development
 ----------------------------------------
 
-* Human Languages:
+University Course
+: STAT 1000 - Applied Statistical Methods
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+    - Leveraged Python Numpy and Scipy libraries to complete homework problems
 
-* Random tidbit
+LinkedIn Learning
+:    Python Data Analysis
+     Become A Data Analyst Certificate
 
-* Other sort of impressive-sounding thing you did
+    - Learning Excel: Data Analysis 
+    - Data Cleaning in Python Essential Training
+    - SQL: Data Reporting and Analysis 
+    - Learning Data Analytics
+    - Learning Data Visualization
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <william.rial@gmail.com> •  [LinkedIn]• [Portfolio Page]
+
+> Pittsburgh, PA 15218 • (724) 259 4677
+
+[LinkedIn]: https://www.linkedin.com/in/william-rial
+[Portfolio Page]: https://tinyurl.com/wrialportfolio
